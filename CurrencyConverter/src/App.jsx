@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-      <h1 className='text-3xl bg-blue-500' >My Currency Converter App</h1>
+      <div className="bg-slate-400 h-screen">
+        
+      </div>
     </>
   )
 }
