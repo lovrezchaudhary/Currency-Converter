@@ -1,4 +1,5 @@
-// import { useState } from 'react'
+/* eslint-disable no-unused-vars */
+import { useState } from 'react'
 import './App.css'
 
 function App() {
@@ -6,9 +7,6 @@ function App() {
 
   return (
     <>
-      <div className="bg-slate-400 h-screen">
-        
-      </div>
     </>
   )
 }
